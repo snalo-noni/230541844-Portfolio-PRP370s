@@ -2,7 +2,9 @@
 # Snalo Noni
 **Junior Software Developer**
 
-📧 230541844@mycput.ac.za | 📞 072 904 3817 | 📍 New Mandela Square, Zwelethemba, Worcester
+📧 230541844@mycput.ac.za |
+📞 072 904 3817 
+| 📍 New Mandela Square, Zwelethemba, Worcester
 🔗 [github.com/230541844](https://github.com/230541844)
 
 ---
@@ -11,7 +13,6 @@
 
 I am an Application Development student at CPUT who enjoys building software that is simple and easy to use. I work mostly with Java and Python and I am still learning and growing every day.
 
----
 
 ## CV
 
