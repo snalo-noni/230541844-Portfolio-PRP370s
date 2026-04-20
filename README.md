@@ -5,7 +5,7 @@
 * **📧 230541844@mycput.ac.za**
 * **📞 072 904 3817**
 * **📍 New Mandela Square, Zwelethemba, Worcester**
-🔗 [github.com/230541844](https://github.com/230541844)
+**🔗 [github.com/230541844](https://github.com/230541844)**
 
 ---
 
