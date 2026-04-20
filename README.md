@@ -67,12 +67,11 @@ Built a personal portfolio website to display my projects and skills.
 
 ## Mock Interview Video
 
-<iframe width="560" height="315"
-  src="https://drive.google.com/file/d/1jA4x3lSYnwhHzshRJvrpuMysBsk6Lroo/view?usp=sharing"
-  title="Mock Interview - Snalo Noni"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
+## Mock Interview Video
+
+[![Watch the Interview](https://raw.githubusercontent.com/gist/SnaloNoni/65c9ff/interview-thumbnail.png)](https://drive.google.com/file/d/1jA4x3ISYnwhHzshRJvrpuMysBsk6Lroo/view?usp=sharing)
+
+*Click the image above to view the mock interview on Google Drive.*
 
 ---
 
