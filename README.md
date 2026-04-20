@@ -8,6 +8,8 @@
 * **🔗 [github.com/230541844](https://github.com/230541844)**
 * **🔗[linkedIn.com](https://www.linkedin.com/in/snalo-noni-8a9661352/)**
 
+  ---
+
 ## About Me
 
 I am an Application Development student at CPUT who enjoys building software that is simple and easy to use. I work mostly with Java and Python and I am still learning and growing every day.
