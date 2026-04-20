@@ -6,8 +6,7 @@
 * **📞 072 904 3817**
 * **📍 New Mandela Square, Zwelethemba, Worcester**
 * **🔗 [github.com/230541844](https://github.com/230541844)**
-* ** [linkedIn.com](https://www.linkedin.com/in/snalo-noni-8a9661352/)**
----
+* **[linkedIn.com](https://www.linkedin.com/in/snalo-noni-8a9661352/)**
 
 ## About Me
 
